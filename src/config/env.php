@@ -7,4 +7,5 @@ $_ENV['DB_NAME'] = 'Forum';
 
 // Configuração de diretório
 $_ENV['USER_IMG_PATH'] = '/var/www/html/uploads/';
+
 ?>
